@@ -10,20 +10,20 @@
 <channel>
 	<title>LeanArk</title>
 	<atom:link href="http://192.168.64.2/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>https://leanark.com/</link>
+	<link>https://www.leanark.com/</link>
 	<description>WordPress Solutions</description>
-	<lastBuildDate>Fri, 03 Sep 2021 16:46:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Apr 2022 06:22:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>https://leanark.com/wp-content/uploads/2021/09/cropped-leanark_icon-32x32.png</url>
+	<url>https://www.leanark.com/wp-content/uploads/2021/09/cropped-leanark_icon_updated-32x32.png</url>
 	<title>LeanArk</title>
-	<link>https://leanark.com/</link>
+	<link>https://www.leanark.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

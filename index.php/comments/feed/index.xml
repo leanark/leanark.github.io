@@ -9,13 +9,13 @@
 	<title>
 	Comments for LeanArk	</title>
 	<atom:link href="http://192.168.64.2/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://leanark.com/</link>
+	<link>https://www.leanark.com/</link>
 	<description>WordPress Solutions</description>
-	<lastBuildDate>Fri, 03 Sep 2021 16:46:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Apr 2022 06:22:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 </channel>
 </rss>
